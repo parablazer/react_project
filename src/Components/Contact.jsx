@@ -12,11 +12,11 @@ export function Contact (){
                 <h3>Dominik Rudnicki</h3>
                 <div className="info-group">
                     <img src={PhoneIcon} alt="Phone Icon"></img>
-                    <p>281-740-1011</p>
+                    <p>281-555-1011</p>
                 </div>
                 <div className="info-group">
                 <img src={MailIcon} className="icon" alt="Phone Icon"></img>
-                <p>ewelina@tncisp.com</p>
+                <p>ewelina@email.com</p>
                 </div>
             </article>
     )
